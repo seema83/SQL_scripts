@@ -1,0 +1,144 @@
+shooting_cases,city,state,date_shooting,year_shooting,shooter_name,gender,race_shooter,fatalities,injured,total_victims,location,age_of_shooter,mental_health_issues,weapons_legal,type_shooting
+Nashville religious school shooting,Nashville,Tennessee,3/27/2023,2023,Audrey Hale,F,NULL,6,1,6,school,28,NULL,NULL,Mass
+Michigan State University shooting,East Lansing, Michigan,2/13/2023,2023,Anthony D. McRae,M,Black,3,5,8,school,43,NULL,yes,Mass
+Half Moon Bay spree shooting,Half Moon Bay, California,1/23/2023,2023,Chunli Zha,M,Asian,7,1,8,workplace,67,NULL,NULL,Spree
+LA dance studio mass shooting,Monterey Park, California,1/21/2023,2023,Huu Can Tran,M,Asian,11,10,21,other,72,yes,NULL,Mass
+Virginia Walmart shooting,Chesapeake, Virginia,11/22/2022,2022,Andre Bing,M,Black,6,6,12,workplace,31,NULL,NULL,Mass
+LGBTQ club shooting,Colorado Springs, Colorado,11/19/2022,2022,Anderson L. Aldrich,M,White,5,25,30,other,22,yes,NULL,Mass
+University of Virginia shooting,Charlottesville, Virginia,11/13/2022,2022,Christopher Darnell Jones Jr.,M,Black,3,2,5,school,22,NULL,yes,Mass
+Raleigh spree shooting,Hedingham, North Carolina,10/13/2022,2022,Austin Thompson,M,White,5,2,7,other,15,NULL,NULL,Spree
+Greenwood Park Mall shooting,Greenwood, Indiana,7/17/2022,2022,Jonathan Sapirman ,M,White,3,2,5,workplace,20,NULL,yes,Mass
+Highland Park July 4 parade shooting,Highland Park, Illinois,7/4/2022,2022,"Robert ""Bobby"" Crimo",M,White,7,46,53,other,21,NULL,yes,Mass
+Church potluck dinner shooting,Birmingham, Alabama,6/16/2022,2022,Robert Findlay Smith,M,White,3,0,3,religious,70,NULL,yes,Mass
+Concrete company shooting,Smithsburg, Maryland,6/9/2022,2022,Joe Louis Esquivel,M,NULL,3,1,4,workplace,23,NULL,NULL,Mass
+Tulsa medical center shooting,Tulsa, Oklahoma,6/1/2022,2022,Michael Louis,M,Black,4,10,NULL,workplace,45,NULL,yes,Mass
+Robb Elementary school massacre,Uvalde, Texas,5/24/2022,2022,Salvador Ramos,M,Latino,21,17,38,school,18,yes,yes,Mass
+Buffalo supermarket massacre,Buffalo, New York,5/14/2022,2022,Payton S. Gendron,M,White,10,3,13,workplace,18,yes,yes,Mass
+Sacramento County church shooting,Sacramento, California,2/28/2022,2022,NULL,M,NULL,4,0,4,religious,NULL,NULL,NULL,Mass
+Oxford High school shooting,Oxford, Michigan,11/30/2021,2021,Salvador Ramos,M,NULL,4,7,11,school,15,NULL,NULL,Mass
+San Jose VTA shooting,San Jose, California,5/26/2021,2021,Samuel Cassidy ,M,NULL,9,0,9,workplace,57,yes,NULL,Mass
+FedEx warehouse shooting,Indianapolis, Indiana,4/15/2021,2021,Brandon Scott Hole ,M,White,8,7,15,workplace,19,yes,yes,Mass
+Orange office complex shooting,Orange, California,3/31/2021,2021,Aminadab Gaxiola Gonzalez ,M,NULL,4,1,5,workplace,44,NULL,NULL,Mass
+Boulder supermarket shooting,Boulder, Colorado,3/22/2021,2021,Ahmad Al Aliwi Alissa ,M,NULL,10,0,10,workplace,21,yes,yes,Mass
+Atlanta massage parlor shootings,Atlanta, Georgia,3/16/2021,2021,Robert Aaron Long ,M,White,8,1,9,workplace,21,NULL,NULL,Spree
+Springfield convenience store shooting,Springfield, Missouri,3/16/2020,2020,Joaquin S. Roman ,M,NULL,4,0,4,workplace,31,NULL,yes,Mass
+Molson Coors shooting,Milwaukee, Wisconsin,2/26/2020,2020,Anthony Ferrill,M,Black,5,0,5,workplace,51,NULL,NULL,Mass
+Jersey City kosher market shooting,Jersey City, New Jersey,12/10/2019,2019,David N. Anderson,"M, F",Black,4,3,7,other,NULL,NULL,NULL,Spree
+Pensacola Naval base shooting,Pensacola, Florida,12/6/2019,2019,Ahmed Mohammed ,M,NULL,3,8,11,military,21,NULL,NULL,Mass
+OdessaNULLMidland shooting spree,Odessa, Texas,8/31/2019,2019,Seth A. Ator ,M,White,7,25,32,other,36,yes,NULL,Spree
+Dayton entertainment district shooting,Dayton, Ohio,8/4/2019,2019,Connor Betts,M,White,9,27,36,other,24,NULL,yes,Mass
+El Paso Walmart mass shooting,El Paso, Texas,8/3/2019,2019,Patrick Crusius,M,White,22,26,48,workplace,21,NULL,yes,Mass
+Gilroy garlic festival shooting,Gilroy, California,7/28/2019,2019,Santino William LeGan,M,NULL,3,12,15,other,19,TBD,yes,Mass
+Virginia Beach municipal building shooting,Virginia Beach, Virginia,5/31/2019,2019,DeWayne Craddock,M,Black,12,4,16,workplace,40,TBD,yes,Mass
+Harry Pratt Co. warehouse shooting,Aurora, Illinois,2/15/2019,2019,"Gary Martin, ",M,Black,5,6,11,workplace,45,yes,No,Mass
+Pennsylvania hotel bar shooting,State College, Pennsylvania,1/24/2019,2019,Jordan Witmer,M,White,3,1,4,other,21,NULL,yes,Spree
+SunTrust bank shooting,Sebring, Florida,1/23/2019,2019,Zephen A. Xaver,M,White,5,0,5,workplace,21,yes,yes,Mass
+Mercy Hospital shooting,Chicago, Illinois,11/19/2018,2018,Juan Lopez ,M,Latino,3,0,3,workplace,32,NULL,NULL,Mass
+Thousand Oaks nightclub shooting,Thousand Oaks, California,11/7/2018,2018,Ian David Long ,M,NULL,12,22,34,other,28,yes,yes,Mass
+Tree of Life synagogue shooting,Pittsburgh, Pennsylvania,10/27/2018,2018,Robert D. Bowers ,M,White,11,6,17,religious,46,NULL,yes,Mass
+Rite Aid warehouse shooting,Perryman, Maryland,9/20/2018,2018,Snochia Moseley,F,Black,3,3,6,workplace,26,NULL,yes,Mass
+T&T Trucking shooting,Bakersfield, California,9/12/2018,2018,Javier Casarez,M,Latino,5,0,5,workplace,54,NULL,yes,Spree
+Fifth Third Center shooting,Cincinnati, Ohio,9/6/2018,2018,Omar Enrique Santa Perez,M,Latino,3,2,5,workplace,29,yes,yes,Mass
+Capital Gazette shooting,Annapolis, Maryland,6/28/2018,2018,Jarrod W. Ramos ,M,White,5,2,7,workplace,38,NULL,yes,Mass
+Santa Fe High school shooting,Santa Fe, Texas,5/18/2018,2018,Dimitrios Pagourtzis,M,White,10,13,23,school,17,NULL,TBD,Mass
+Waffle House shooting,Nashville, Tennessee,4/22/2018,2018,Travis Reinking,M,White,4,4,8,other,29,yes,yes,Mass
+Yountville veterans home shooting,Yountville, California,3/9/2018,2018, Albert Cheung Wong,M,Asian,3,0,3,workplace,36,yes,yes,Mass
+Marjory Stoneman Douglas High school shooting,Parkland, Florida,2/14/2018,2018,Nikolas J. Cruz,M,White,17,17,34,school,19,yes,yes,Mass
+Pennsylvania carwash shooting,Melcroft, Pennsylvania,1/28/2018,2018,Timothy O'Brien Smith,M,White,4,1,5,other,28,TBD,TBD,Mass
+Rancho Tehama shooting spree,Rancho Tehama, California,11/14/2017,2017,Kevin Janson Neal,M,White,5,10,15,other,44,TBD,No,Spree
+Texas First Baptist Church massacre,Sutherland Springs, Texas,11/5/2017,2017,Devin Patrick Kelley,M,White,26,20,46,religious,26,yes,NULL,Mass
+Walmart shooting in suburban Denver,Thornton, Colorado,11/1/2017,2017,Scott Allen Ostrem,M,White,3,0,3,other,47,unclear,TBD,Mass
+Edgewood businees park shooting,Edgewood, Maryland,10/18/2017,2017,Radee Labeeb Prince,M,Black,3,3,6,workplace,37,unclear,No,Mass
+Las Vegas Strip massacre,Las Vegas, Nevada,10/1/2017,2017,Stephen Craig Paddock ,M,White,58,546,604,other,64,TBD,yes,Mass
+San Francisco UPS shooting,San Francisco, California,6/14/2017,2017,Jimmy Lam,M,Asian,3,2,5,workplace,38,yes,No,Mass
+Pennsylvania supermarket shooting,Tunkhannock, Pennsylvania,6/7/2017,2017,Randy Stair,M,White,3,0,3,workplace,24,unclear,TBD,Mass
+Florida awning manufacturer shooting,Orlando, Florida,6/5/2017,2017,"John Robert Neumann, Jr.",M,NULL,5,0,5,workplace,45,unclear,TBD,Mass
+Rural Ohio nursing home shooting,Kirkersville, Ohio,5/12/2017,2017,Thomas Hartless,M,White,3,0,3,workplace,43,yes,TBD,Mass
+Fresno downtown shooting,Fresno, California,4/18/2017,2017,Kori Ali Muhammad,M,Black,3,0,3,other,39,unclear,unknown,Mass
+Fort Lauderdale airport shooting,Fort Lauderdale, Florida,1/6/2017,2017,Esteban Santiago,M,Latino,5,6,11,airport,26,yes,yes,Mass
+Cascade Mall shooting,Burlington, Washington,9/23/2016,2016,Arcan Cetin,M,NULL,5,0,5,other,20,yes,TBD,Mass
+Baton Rouge police shooting,Baton Rouge, Lousiana,7/17/2016,2016,Gavin Long,M,Black,3,3,6,other,29,yes,unknown,Spree
+Dallas police shooting,Dallas, Texas,7/7/2016,2016,Micah Xavier Johnson,M,Black,5,11,16,other,25,unclear,yes,Mass
+Orlando nightclub massacre,Orlando, Florida,6/12/2016,2016,Omar Mateen ,M,other,49,53,102,other,29,unclear,yes,Mass
+Excel Industries mass shooting,Hesston, Kansas,2/25/2016,2016,Cedric L. Ford,M,Black,3,14,17,workplace,38,unclear,yes,Mass
+Kalamazoo shooting spree,Kalamazoo County, Michigan,2/20/2016,2016,Jason B. Dalton ,M,White,6,2,8,other,45,unclear,yes,Mass
+San Bernardino mass shooting,San Bernardino, California,12/2/2015,2015,Syed Rizwan Farook,"M, F",other,14,21,35,NULL,28,unclear,"
+yes",Mass
+Planned Parenthood clinic,Colorado Springs, Colorado,11/27/2015,2015,Robert Lewis Dear,M,White,3,9,12,workplace,57,unclear,unknown,Mass
+Colorado Springs shooting rampage,Colorado Springs, Colorado,10/31/2015,2015,Noah Harpham,M,White ,3,0,3,other,33,unclear,yes,Mass
+Umpqua Community College shooting,Roseburg, Oregon,10/1/2015,2015,Chris Harper Mercer,M,other,9,9,18,school,26,unclear,yes,Mass
+Chattanooga military recruitment center,Chattanooga, Tennessee,7/16/2015,2015,Mohammod Youssuf Abdulazeez ,M,other,5,2,7,military,24,unclear,"yes (""some of the weapons were purchased legally and some of them may not have been"")",Mass
+Charleston Church Shooting,Charleston, South Carolina,6/17/2015,2015,Dylann Storm Roof,M,White,9,1,10,religious,21,unclear,yes,Mass
+Trestle Trail bridge shooting,Menasha, Wisconsin,6/11/2015,2015,Sergio Valencia del Toro,M,Latino,3,1,4,other,27,yes,yes,Mass
+MarysvilleNULLPilchuck High school shooting,Marysville, Washington,10/24/2014,2014,Jaylen Fryberg,M,Native American,5,1,6,school,15,unclear,No,Mass
+Isla Vista mass murder,Santa Barbara, California,5/23/2014,2014,Elliot Rodger ,M,White,6,13,19,school,22,yes,yes,Mass
+Fort Hood shooting 2,Fort Hood, Texas,4/3/2014,2014,Ivan Lopez,M,Latino,3,12,15,military,34,unclear,"
+yes",Mass
+Alturas tribal shooting,Alturas, California,2/20/2014,2014,Cherie Lash Rhoades,F,Native American,4,2,6,other,44,unknown,unknown,Spree
+Washington Navy Yard shooting,Washington, D.C.,9/16/2013,2013,Aaron Alexis,M,Black,12,8,20,military,34,yes,yes,Mass
+Hialeah apartment shooting,Hialeah, Florida,7/26/2013,2013,Pedro Vargas,M,Latino,7,0,7,NULL,42,unclear,yes,Mass
+Santa Monica rampage,Santa Monica, California,6/7/2013,2013,John Zawahr ,M,White,6,3,9,NULL,23,yes,yes ,Mass
+Pinewood Village Apartment shooting,Federal Way, Washington,4/21/2013,2013,Dennis Clark III ,M,Black,5,0,5,NULL,27,No,yes,Mass
+Mohawk Valley shootings,Herkimer County, New York,3/13/2013,2013,Kurt Myers ,M,White,5,2,7,other,64,No,yes,Mass
+Sandy Hook Elementary massacre,Newtown, Connecticut,12/14/2012,2012,Adam Lanza ,M,White,27,2,29,school,20,yes,No,Mass
+Accent Signage Systems shooting,Minneapolis, Minnesota,9/27/2012,2012,Andrew Engeldinger,M,White,7,1,8,workplace,36,yes,yes,Mass
+Sikh temple shooting,Oak Creek, Wisconsin,8/5/2012,2012,Wade Michael Page,M,White,7,3,10,religious,40,yes,yes,Mass
+Aurora theater shooting,Aurora, Colorado,7/20/2012,2012,James Holmes,M,White,12,70,82,other,24,yes,yes,Spree
+Seattle cafe shooting,Seattle, Washington,5/20/2012,2012,Ian Stawicki,M,White,6,1,7,other,40,yes,yes,Mass
+Oikos University killings,Oakland, California,4/2/2012,2012,One L. Goh,M,Asian,7,3,10,school,43,yes,yes,Mass
+Su Jung Health Sauna shooting,Norcross, Georgia,2/21/2012,2012,Jeong Soo Paek,M,Asian,5,0,5,other,59,yes,yes,Mass
+Seal Beach shooting,Seal Beach, California,10/12/2011,2011,Scott Evans Dekraai,M,White,8,1,9,other,42,yes,yes,Mass
+IHOP shooting,Carson City, Nevada,9/6/2011,2011,Eduardo Sencion,M,Latino,5,7,12,other,32,yes,yes,Mass
+Tucson shooting,Tucson, Arizona,1/8/2011,2011,Jared Loughner,M,White,6,13,19,other,22,yes,yes,Mass
+Hartford Beer Distributor shooting,Manchester, Connecticut,8/3/2010,2010,Omar S. Thornton,M,Black,9,2,11,workplace,34,No,yes,Mass
+Coffee shop police killings,Parkland, Washington,11/29/2009,2009,Maurice Clemmons,M,Black,4,1,5,other,37,yes,No,Mass
+Fort Hood massacre,Fort Hood, Texas,11/5/2009,2009,Nidal Malik Hasan,M,other,13,31,44,military,39,unclear,yes,Mass
+Binghamton shootings,Binghamton, New York,4/3/2009,2009,Jiverly Wong,M,Asian,14,4,18,other,41,yes,yes,Mass
+Carthage nursing home shooting,Carthage, North Carolina,3/29/2009,2009,Robert Stewart,M,White,8,3,11,other,45,yes,yes,Mass
+Atlantis Plastics shooting,Henderson, Kentucky,6/25/2008,2008,Wesley Neal Higdon,M,White,6,1,7,workplace,25,No,yes,Spree
+Northern Illinois University shooting,DeKalb, Illinois,2/14/2008,2008,Steven Kazmierczak,M,White,5,21,26,school,27,yes,yes,Mass
+Kirkwood City Council shooting,Kirkwood, Missouri,2/7/2008,2008,"Charles ""Cookie"" Lee Thornton",M,Black,6,2,8,other,52,No,No,Mass
+Westroads Mall shooting,Omaha, Nebraska,12/5/2007,2007,Robert A. Hawkins,M,White,9,4,13,other,19,yes,No,Spree
+Crandon shooting,Crandon, Wisconsin,10/7/2007,2007,Tyler Peterson,M,White,6,1,7,other,20,unclear,yes,Mass
+Virginia Tech massacre,Blacksburg, Virginia,4/16/2007,2007,Seung-Hui Cho,M,Asian,32,23,55,school,23,yes,yes,Mass
+Trolley Square shooting,Salt Lake City, Utah,2/12/2007,2007,Sulejman Talovi?‡,M,White,6,4,10,other,18,unclear,unknown,Mass
+Amish school shooting,Lancaster County, Pennsylvania,10/2/2006,2006,Charles Carl Roberts,M,White,6,5,11,school,32,No,yes,Mass
+Capitol Hill massacre,Seattle, Washington,3/25/2006,2006,Kyle Aaron Huff,M,White,7,2,9,other,28,No,yes,Mass
+Goleta postal shootings,Goleta, California,1/30/2006,2006,Jennifer Sanmarco,F,White,8,0,8,workplace,44,yes,yes,Mass
+Red Lake massacre,Red Lake, Minnesota,3/21/2005,2005,Jeffrey Weise,M,Native American,10,5,15,school,16,yes,No,Mass
+Living Church of God shooting,Brookfield, Wisconsin,3/12/2005,2005,Terry Michael Ratzmann,M,White,7,4,11,religious,44,yes,yes,Spree
+Damageplan show shooting,Columbus, Ohio,12/8/2004,2004,Nathan Gale,M,White,5,7,12,other,25,yes,yes,Mass
+Lockheed Martin shooting,Meridian, Mississippi,7/8/2003,2003, Douglas Williams,M,White,7,8,15,workplace,48,yes,yes,Mass
+Navistar shooting,Melrose Park, Illinois,2/5/2001,2001,William D. Baker,M,Black,5,4,9,workplace,66,No,yes,Mass
+Wakefield massacre,Wakefield, Massachusetts,12/26/2000,2000,Michael McDermott,M,Black,7,0,7,workplace,42,yes,yes,Mass
+Hotel shooting,Tampa, Florida,12/30/1999,1999,Silvio Leyva,M,Latino,5,3,8,workplace,36,yes,yes,Spree
+Xerox killings,Honolulu, Hawaii,11/2/1999,1999,Byran Koji Uyesugi,M,Asian,7,0,7,workplace,40,yes,yes,Spree
+Wedgwood Baptist Church shooting,Fort Worth, Texas,9/15/1999,1999,Larry Gene Ashbrook,M,White,8,7,15,religious,47,yes,yes,Mass
+Atlanta day trading spree killings,Atlanta, Georgia,7/29/1999,1999,Mark O. Barton,M,White,9,13,22,workplace,44,yes,yes,Mass
+Columbine High school massacre,Littleton, Colorado,4/20/1999,1999,"Eric Harris, Dylan Klebold",M,White,13,24,37,school,17,yes,No,Mass
+Thurston High school shooting,Springfield, Oregon,5/21/1998,1998,Kipland P. Kinkel,M,White,4,25,29,school,15,yes,No,Mass
+Westside Middle school killings,Jonesboro, Arkansas,3/24/1998,1998,"Mitchell Scott Johnson, Andrew Douglas Golden",M,White,5,10,15,school,11,No,No,Mass
+Connecticut Lottery shooting,Newington, Connecticut,3/6/1998,1998,Matthew Beck,M,White,5,1,6,workplace,35,yes,yes,Mass
+Caltrans maintenance yard shooting,Orange, California,12/18/1997,1997,Arturo Reyes Torres,M,Latino,5,2,7,workplace,41,No,yes,Spree
+R.E. Phelon Company shooting,Aiken, South Carolina,9/15/1997,1997,Hastings Arthur Wise,M,Black,4,3,7,workplace,43,No,No,Mass
+Fort Lauderdale revenge shooting,Fort Lauderdale, Florida,2/9/1996,1996,Clifton McCree,M,Black,6,1,7,workplace,41,yes,yes,Spree
+Walter Rossler Company massacre,Corpus Christi, Texas,4/3/1995,1995,James Daniel Simpson,M,unclear,6,0,6,workplace,28,No,yes,Mass
+Air Force base shooting,Fairchild Air Force Base, Washington,6/20/1994,1994,Dean Allen Mellberg,M,White,5,23,28,military,20,yes,yes,Mass
+Chuck E. Cheese's killings,Aurora, Colorado,12/14/1993,1993,Nathan Dunlap,M,Black,4,1,5,workplace,19,unclear,unknown,Mass
+Long Island Rail Road massacre,Garden City, New York,12/7/1993,1993,Colin Ferguson,M,Black,6,19,25,other,35,yes,yes,Spree
+Luigi's shooting,Fayetteville, North Carolina,8/6/1993,1993,Kenneth Junior French,M,White,4,8,12,other,22,No,yes,Mass
+101 California Street shootings,San Francisco, California,7/1/1993,1993,Gian Luigi Ferri,M,White,9,6,15,other,55,No,No,Mass
+Watkins Glen killings,Watkins Glen, New York,10/15/1992,1992,John T. Miller,M,White,5,0,5,other,50,yes,yes,Mass
+Lindhurst High school shooting,Olivehurst, California,5/1/1992,1992, Eric Houston,M,White,4,10,14,school,20,No,yes,Mass
+Royal Oak postal shooting,Royal Oak, Michigan,11/14/1991,1991,Thomas McIlvane,M,White,5,5,10,workplace,31,yes,yes,Mass
+University of Iowa shooting,Iowa City, Iowa,11/1/1991,1991,Gang Lu,M,Asian,6,1,7,school,28,unclear,yes,Spree
+Luby's massacre,Killeen, Texas,10/16/1991,1991,George Hennard,M,White,24,20,44,other,35,No,yes,Mass
+GMAC massacre,Jacksonville, Florida,6/18/1990,1990,James Edward Pough,M,Black,10,4,14,other,42,No,yes,Mass
+Standard Gravure shooting,Louisville, Kentucky,9/14/1989,1989,Joseph T. Wesbecker,M,White,9,12,21,workplace,47,yes,yes,Mass
+Stockton schoolyard shooting,Stockton, California,1/17/1989,1989,Patrick Purdy,M,White,6,29,35,school,26,yes,yes,Mass
+ESL shooting,Sunnyvale, California,2/16/1988,1988,Richard Farley,M,White,7,4,11,workplace,39,yes,yes,Mass
+Shopping centers spree killings,Palm Bay, Florida,4/23/1987,1987,William Cruse,M,White,6,14,20,other,59,yes,yes,Spree
+United States Postal Service shooting,Edmond, Oklahoma,8/20/1986,1986,Patrick Sherrill,M,White,15,6,21,workplace,44,unclear ,yes,Mass
+San Ysidro McDonald's massacre,San Ysidro, California,7/18/1984,1984,James Oliver Huberty,M,White,22,19,41,other,41,yes,yes,Mass
+Dallas nightclub shooting,Dallas, Texas,6/29/1984,1984,Abdelkrim Belachheb,M,White,6,1,7,other,39,yes,No,Mass
+Welding shop shooting,Miami, Florida,8/20/1982,1982,Carl Robert Brown,M,White,8,3,11,other,51,yes,yes,Mass
