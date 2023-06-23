@@ -1,0 +1,33 @@
+flower_ID,flower_name,edibility
+1,hollyhock,inedible
+2,coreopsis,inedible
+3,calendula,inedible
+4,geranium,inedible
+5,star jasmine,inedible
+6,larkspur,inedible
+7,California poppy,inedible
+8,nasturtium,edible
+9,Shasta daisy,inedible
+10,sweet pea,inedible
+11,rudbeckia,inedible
+12,radish,edible
+13,carrot,inedible
+14,blanket flower,inedible
+15,sunflower,inedible
+16,garden candytuft,inedible
+17,chamomile,edible
+18,Indian mustard,edible
+19,Asiatic lily,inedible
+20,pea,edible
+21,cilantro,edible
+22,yarrow,inedible
+23,cornflower,inedible
+24,sweet pea shrub,inedible
+25,lavender,inedible
+26,lettuce,inedible
+27,globe artichoke,edible
+28,kalanchoe,inedible
+29,bulbine,inedible
+30,wild strawberry,inedible
+31,Chinese Privet,inedible
+31,Bougainvillea,inedible
